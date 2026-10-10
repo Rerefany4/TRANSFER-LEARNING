@@ -1,3 +1,0 @@
-Mode: feature
-Best validation accuracy: 84.85%
-Training time: 63.32 seconds
