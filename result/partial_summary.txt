@@ -1,0 +1,3 @@
+Mode: partial
+Best validation accuracy: 90.91%
+Training time: 74.07 seconds

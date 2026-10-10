@@ -1,0 +1,3 @@
+Mode: scratch
+Best validation accuracy: 81.82%
+Training time: 122.57 seconds
